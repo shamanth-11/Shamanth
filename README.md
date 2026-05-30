@@ -127,13 +127,6 @@ https://www.instagram.com/cricbids
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamanth-11\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamanth-11\&layout=compact)
-
----
 
 ## 📫 Connect With Me
 
@@ -144,7 +137,7 @@ https://github.com/shamanth-11
 https://www.instagram.com/thecricbids
 
 💼 LinkedIn:
-🔗 linkedin.com/in/shamanth-poojary-3921b0203
+🔗 [[https://www.linkedin.com/in/shamanth-poojary-3921b0203/](https://www.linkedin.com/in/shamanth-poojary-3921b0203/)
 
 ---
 
